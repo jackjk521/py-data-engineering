@@ -1,8 +1,9 @@
+venv/Scripts/Activate
+
 TO DO
 install the following
-mysql.connector
-pandas_gbq
-dbt
+networkx igraph mysql mysql-connector-python
+
 
 RUN the commands
 dbt init
